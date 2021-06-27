@@ -15,3 +15,6 @@ This is a simple web project
 
 ## How to contribute
  
+### copyright 
+git.traning
+2021
