@@ -14,6 +14,8 @@ This is an example is to show diferent parts of the git reposuitory varios comma
 This is a simple web project
 
 ## How to contribute
+
+please fork this repository and then issue pullrequest for rive
  
 ### copyright 
 git.traning
