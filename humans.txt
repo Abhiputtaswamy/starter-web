@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Abhishek abhishek.puttaswamy@gmail.com
 
 # THANKS
 
